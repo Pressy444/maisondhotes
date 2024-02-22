@@ -17,7 +17,6 @@ Ce projet est un site web pour les chambres d'hôtes "Clos Prescillia". Il prés
 - ![image](https://github.com/Pressy444/maisondhotes/assets/145189170/1c2164ce-d756-4bfb-a427-fa687c555d38)
 
 ## Utilisation
-![Aperçu du site](./images/screenshot.png)
 
 Pour ce projet j'ai utilisé :
 -Html
